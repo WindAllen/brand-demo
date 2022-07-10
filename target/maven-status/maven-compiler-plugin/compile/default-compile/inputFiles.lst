@@ -1,0 +1,15 @@
+D:\workspace\brand-demo\src\main\java\com\itheima\pojo\User.java
+D:\workspace\brand-demo\src\main\java\com\itheima\mapper\UserMapper.java
+D:\workspace\brand-demo\src\main\java\com\itheima\utils\CheckCodeUtil.java
+D:\workspace\brand-demo\src\main\java\com\itheima\mapper\BrandMapper.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\updateServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\service\BrandService.java
+D:\workspace\brand-demo\src\main\java\com\itheima\pojo\Brand.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\loginServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\registerServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\utils\SqlSessionFactoryUtils.java
+D:\workspace\brand-demo\src\main\java\com\itheima\service\UserService.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\selectByIdServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\checkCodeServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\selectAllServlet.java
+D:\workspace\brand-demo\src\main\java\com\itheima\web\addServlet.java
